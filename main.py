@@ -1,5 +1,5 @@
 from engine import Value
-from nn import MLP
+from nn import MLP 
 
 # Sample data (input features and target outputs)
 xs = [[2.0, 3.0, -1.0], 
